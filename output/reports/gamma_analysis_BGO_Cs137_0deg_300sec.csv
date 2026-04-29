@@ -1,0 +1,2 @@
+file,radionuclide,reference_energy_keV,detected_energy_keV,energy_difference_keV,channel,counts,peak_name
+data/raw/BGO Cs137 0deg 300sec.Spe,Cs-137,661.7,664.00,2.30,339,4502,Photopeak utama Cs-137

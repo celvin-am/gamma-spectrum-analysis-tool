@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+src_backup_awal/
+src/*_backup_*.py
+.DS_Store

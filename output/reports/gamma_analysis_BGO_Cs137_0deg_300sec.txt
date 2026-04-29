@@ -1,0 +1,24 @@
+========================================================================
+GAMMA SPECTRUM ANALYSIS TOOL
+========================================================================
+File dianalisis        : data/raw/BGO Cs137 0deg 300sec.Spe
+Rumus kalibrasi        : Energi (keV) = 1.9969 * Channel + -12.9437
+Prominence peak        : 135.10
+Jumlah peak terdeteksi : 1
+
+DAFTAR PEAK TERDETEKSI
+------------------------------------------------------------------------
+No   Channel    Energi (keV)    Counts       Smooth      
+------------------------------------------------------------------------
+1    339        664.00          4502         4503.43     
+
+PEAK YANG COCOK DENGAN REFERENSI
+------------------------------------------------------------------------
+Radionuklida   E Ref      E Deteksi    Selisih    Channel 
+------------------------------------------------------------------------
+Cs-137         661.7      664.00       2.30       339     
+
+KESIMPULAN IDENTIFIKASI
+------------------------------------------------------------------------
+- Cs-137 | Teridentifikasi berdasarkan satu photopeak
+  Alasan: Photopeak utama Cs-137 sekitar 661.7 keV terdeteksi pada spektrum.

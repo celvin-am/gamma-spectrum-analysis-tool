@@ -1,0 +1,26 @@
+========================================================================
+GAMMA SPECTRUM ANALYSIS TOOL
+========================================================================
+File dianalisis        : data/raw/BGO Co60 0deg 600sec.Spe
+Rumus kalibrasi        : Energi (keV) = 1.9969 * Channel + -12.9437
+Prominence peak        : 10.00
+Jumlah peak terdeteksi : 2
+
+DAFTAR PEAK TERDETEKSI
+------------------------------------------------------------------------
+No   Channel    Energi (keV)    Counts       Smooth      
+------------------------------------------------------------------------
+1    595        1175.20         43           45.00       
+2    672        1328.96         33           37.14       
+
+PEAK YANG COCOK DENGAN REFERENSI
+------------------------------------------------------------------------
+Radionuklida   E Ref      E Deteksi    Selisih    Channel 
+------------------------------------------------------------------------
+Co-60          1173.2     1175.20      2.00       595     
+Co-60          1332.5     1328.96      3.54       672     
+
+KESIMPULAN IDENTIFIKASI
+------------------------------------------------------------------------
+- Co-60 | Teridentifikasi kuat
+  Alasan: Dua photopeak utama Co-60, yaitu 1173.2 keV dan 1332.5 keV, terdeteksi pada spektrum.

@@ -1,0 +1,3 @@
+file,radionuclide,reference_energy_keV,detected_energy_keV,energy_difference_keV,channel,counts,peak_name
+data/raw/BGO Co60 0deg 600sec.Spe,Co-60,1173.2,1175.20,2.00,595,43,Photopeak pertama Co-60
+data/raw/BGO Co60 0deg 600sec.Spe,Co-60,1332.5,1328.96,3.54,672,33,Photopeak kedua Co-60
